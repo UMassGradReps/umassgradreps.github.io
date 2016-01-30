@@ -72,6 +72,7 @@ $ sudo gem install jekyll
 $ sudo gem install redcarpet
 $ sudo gem install pygments.rb
 $ sudo gem install jekyll-paginate
+$ sudo gem install jekyll-mentions
 ```
 
 And then it's just a simple matter of running jekyll locally:
