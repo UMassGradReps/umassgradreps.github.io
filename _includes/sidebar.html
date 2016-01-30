@@ -7,7 +7,14 @@
     <table>
       {% for gr in site.current_gradreps %}
       <tr>
-	<td><img src="{{ gr.image }}" style="max-width:64px; border:solid"></td>
+	<td>
+	  <img src={% if gr.image %}
+	       "{{ site.baseurl }}/{{ gr.image }}"
+	       {% else %}
+	       "https://openclipart.org/download/238412/Adventurer-Girl.svg"
+	       {% endif %}
+	       style="max-width:64px; border:solid"/>
+	</td>
 	<td>
 	  <ul style="list-style:none">
 	    <li><a href="{{ site.baseurl }}{{ gr.url }}">{{ gr.name }}</a></li>

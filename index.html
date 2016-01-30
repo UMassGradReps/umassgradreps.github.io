@@ -3,15 +3,18 @@ layout: default
 ---
 
 {% for post in paginator.posts %}
-<div class="article">
+<div class="post-preview">
     <div class="well">
         <h1><a href="{{ site.baseurl}}{{ post.url }}">{{ post.date | date: "%b %-d, %Y" }} - {{ post.title }}</a></h1>
         {% if site.comments == true and post.comments == true and site.disqus != '' %}
-          <p class="author"><a href="{{ site.baseurl }}{{ post.url }}/#disqus_thread">Comments</a></p>
+        <p class="author">
+	  @{{ post.author }} &middot;
+	  <a href="{{ site.baseurl }}{{ post.url }}/#disqus_thread">Comments</a></p>
         {% endif %}
         <div class="content">
-            {{ post.content }}
+            {{ post.content | split:'<!--break-->' | first }}
         </div>
+	<a href="{{ post.url  }}">Read More</a>
     </div>
 </div>
 {% endfor %}

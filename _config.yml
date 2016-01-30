@@ -20,7 +20,7 @@ gaaccount: ''
 # Set this to your disqus shortname to enable comments. Note that the 'comments'
 # setting below must also be true. Individual posts can override 'comments' to
 # disable on a post-by-post basis
-disqus: ''
+disqus: umassgradreps
 comments: true
 
 permalink: /:year/:month/:title
@@ -30,7 +30,7 @@ highlighter: pygments
 markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-gems: ['jekyll-paginate']
+gems: ['jekyll-paginate', 'jekyll-mentions']
 
 exclude: ['README.md', 'LICENSE']
 

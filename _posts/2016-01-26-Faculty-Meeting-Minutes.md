@@ -1,5 +1,7 @@
 ---
 layout: post
+comments: true
+author: royadams
 ---
 
 *Updates:*
@@ -16,6 +18,8 @@ layout: post
 - Data Science spring research symposium April 22nd.
 - 20 Faculty candidates total. Please come to talks!!!
 - Dean candidate list nearly finalized with 5 candidates.
+
+<!--break-->
 
 *New Staff Awards:*
 
