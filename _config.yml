@@ -1,19 +1,18 @@
 # Jekyll configuration
-
-name: My blog
-description: A jekyll theme
+name: UMass CICS GradReps Homepage
+description: Your one stop for the latest news in CICS.
 
 # url is currently only used only for the RSS feed in feed.xml
-url: http://scotte.github.io
+url: http://cics.umass.edu/~gradrep
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
 # *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
 #     run it like so: jekyll serve --baseurl=''
-baseurl: /jekyll-clean
+# baseurl: /jekyll-clean
 
 # This can be '' to hide the Github nav button
-github: 'scotte/jekyll-clean'
+github: 'UMassGradReps/umassgradreps.github.io'
 
 # Set this to your UA-# value, or '' to disable the block completely
 gaaccount: ''
@@ -34,3 +33,7 @@ redcarpet:
 gems: ['jekyll-paginate']
 
 exclude: ['README.md', 'LICENSE']
+
+collections:
+- current_gradreps
+- former_gradreps
