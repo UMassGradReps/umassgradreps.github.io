@@ -15,12 +15,11 @@ author: royadams
 - New process for visitor parking pass
 - Synthesis proposals are overdue
 
+<!--break-->
+
 *Data science search:*
 
 - Offer to be extended to Sam Bowman.
-- Major concerns were:
-      - Insufficient track record in CS. 
-      - Insufficient advising experience.
 
 *Graduate research award:*
 
