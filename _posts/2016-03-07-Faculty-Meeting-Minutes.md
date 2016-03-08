@@ -11,7 +11,6 @@ author: royadams
 - Outstanding Alumni awards announced
 - Dean search update:
       - Gathering letters for both candidates
-      - Rutenbar was the favorite
 - New process for visitor parking pass
 - Synthesis proposals are overdue
 
