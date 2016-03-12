@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+type: post
 author: royadams
 ---
 

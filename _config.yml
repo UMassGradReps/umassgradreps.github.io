@@ -2,15 +2,6 @@
 name: UMass CICS GradReps Homepage
 description: Your one stop for the latest news in CICS.
 
-# url is currently only used only for the RSS feed in feed.xml
-url: http://cics.umass.edu/~gradrep
-
-# baseurl will often be '', but for a project page on gh-pages, it needs to
-# be the project name.
-# *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
-#     run it like so: jekyll serve --baseurl=''
-# baseurl: /jekyll-clean
-
 # This can be '' to hide the Github nav button
 github: 'UMassGradReps/umassgradreps.github.io'
 
@@ -20,7 +11,7 @@ gaaccount: ''
 # Set this to your disqus shortname to enable comments. Note that the 'comments'
 # setting below must also be true. Individual posts can override 'comments' to
 # disable on a post-by-post basis
-disqus: umassgradreps
+disqus: umasscicsgradreps
 comments: true
 
 permalink: /:year/:month/:title
