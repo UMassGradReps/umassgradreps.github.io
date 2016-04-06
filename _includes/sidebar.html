@@ -1,31 +1,36 @@
 <div class="sidebar well">
-{{ site.description }}
+  {{ site.description }}
+  <div class="footer-col" style="">
+    <p>
+      <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=UmassCicsGradrepsHomepage', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Enter your email address:</p><p><input type="text" style="width:140px" name="email"/></p><input type="hidden" value="UmassCicsGradrepsHomepage" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="Subscribe" /><p>Delivered by <a href="https://feedburner.google.com" target="_blank">FeedBurner</a></p></form>
+    </p>
+  </div>
 </div>
 
 <div class="sidebar well">
-    <h1>Current GradReps</h1>
-    <table>
-      {% for gr in site.current_gradreps %}
-      <tr>
-	<td>
-	  <img src={% if gr.image %}
-	       "{{ site.baseurl }}/{{ gr.image }}"
-	       {% else %}
-	       "https://openclipart.org/download/238412/Adventurer-Girl.svg"
-	       {% endif %}
-	       style="max-width:64px; border:solid"/>
-	</td>
-	<td>
-	  <ul style="list-style:none">
-	    <li><a href="{{ gr.homepage }}">{{ gr.name }}</a></li>
-	    <li>Term: {{ gr.term }}</li>
-	    <li>Lab: <a href="{{ site.baseurl }}{{ gr.laburl }}">{{ gr.lab }}</a></li>
-	</td>
-      </tr>
-      {% endfor %}
-    </table>
+  <h1>Current GradReps</h1>
+  <table>
+    {% for gr in site.current_gradreps %}
+    <tr>
+      <td>
+	<img src={% if gr.image %}
+	     "{{ site.baseurl }}/{{ gr.image }}"
+	     {% else %}
+	     "https://openclipart.org/download/238412/Adventurer-Girl.svg"
+	     {% endif %}
+	     style="max-width:64px; border:solid"/>
+      </td>
+      <td>
+	<ul style="list-style:none">
+	  <li><a href="{{ gr.homepage }}">{{ gr.name }}</a></li>
+	  <li>Term: {{ gr.term }}</li>
+	  <li>Lab: <a href="{{ site.baseurl }}{{ gr.laburl }}">{{ gr.lab }}</a></li>
+      </td>
+    </tr>
+    {% endfor %}
+  </table>
 </div>
 
 <div class="sidebar well">
-{% include links-list.html %}
+  {% include links-list.html %}
 </div>
