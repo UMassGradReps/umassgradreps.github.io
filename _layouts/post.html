@@ -13,7 +13,7 @@ excerpt_separator: <!--break-->
       @{{ author }}&nbsp;&middot;
       {% endfor %}
       {% if site.comments and page.comments and site.disqus != '' %}
-       <a href="#disqus_thread" data-disqus-identifier="{{ page.url | slugify }}">Comments</a>
+       <a href="{{ post.url }}index.html#disqus_thread" data-disqus-identifier="{{ post.url | slugify }}">Comments</a>
       {% endif %}
     </p>
     
