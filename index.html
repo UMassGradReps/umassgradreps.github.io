@@ -11,7 +11,7 @@ layout: default
 	  {% for author in post.author %}
 	  @{{ author }}&nbsp;&middot;
 	  {% endfor %}
-	  <a href="{{ site.baseurl }}{{ post.url }}/#disqus_thread">Comments</a></p>
+	  <a href="{{ site.baseurl }}{{ post.url }}#disqus_thread">Comments</a></p>
         {% endif %}
         <div class="content">
             {{ post.content | split:'<!--break-->' | first }}
