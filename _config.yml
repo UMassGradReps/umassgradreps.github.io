@@ -14,7 +14,7 @@ gaaccount: ''
 disqus: umasscicsgradreps
 comments: true
 
-permalink: /:year/:month/:title
+permalink: /:year/:month/:day/:title
 paginate: 3
 
 markdown: kramdown
