@@ -8,7 +8,9 @@ layout: default
         <h1><a href="{{ site.baseurl}}{{ post.url }}">{{ post.date | date: "%b %-d, %Y" }} - {{ post.title }}</a></h1>
         {% if site.comments == true and post.comments == true and site.disqus != '' %}
         <p class="author">
-	  @{{ post.author }} &middot;
+	  {% for author in post.author %}
+	  @{{ author }}&nbsp;&middot;
+	  {% endfor %}
 	  <a href="{{ site.baseurl }}{{ post.url }}/#disqus_thread">Comments</a></p>
         {% endif %}
         <div class="content">

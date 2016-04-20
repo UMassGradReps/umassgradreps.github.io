@@ -9,9 +9,11 @@ excerpt_separator: <!--break-->
     <h1>
       <a href="{{ site.baseurl}}{{ page.url }}">{{ page.date | date: "%b %-d, %Y" }} - {{ page.title }}</a></h1>
     
-    <p class="author">@{{ page.author }}
+    <p class="author">{% for author in page.author %}
+      @{{ author }}&nbsp;&middot;
+      {% endfor %}
       {% if site.comments and page.comments and site.disqus != '' %}
-      &middot; <a href="#disqus_thread" data-disqus-identifier="{{ page.url | slugify }}">Comments</a>
+       <a href="#disqus_thread" data-disqus-identifier="{{ page.url | slugify }}">Comments</a>
       {% endif %}
     </p>
     
