@@ -25,5 +25,10 @@ gems: ['jekyll-paginate', 'jekyll-mentions']
 exclude: ['README.md', 'LICENSE']
 
 collections:
-- current_gradreps
-- former_gradreps
+  current_gradreps:
+    output: true
+  former_gradreps:
+    output: true
+  resources:	
+    output: true
+    permalink: /resources/:name/
