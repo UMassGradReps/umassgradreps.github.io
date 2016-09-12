@@ -12,7 +12,7 @@
         - Looking for a new advisor at junior/senior/masters levels
         - Doing tenure track hiring this year
         - Data science is hiring some number >= 2
-        - Approved for new ISLES hire, will be a discussion at a future faculty meeting.
+        - Approved for new IALS hire, will be a discussion at a future faculty meeting.
         - Next year: asking for more hiring in data science, hiring in IR/info science, will be discussed at retreat.
         - Brian is heavily focused on developing an online MS in cyber security
             - Focused in one area as a test
