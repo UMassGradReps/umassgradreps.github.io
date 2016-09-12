@@ -1,0 +1,149 @@
+# Faculty Meeting 9/12
+
+- Robert Kozma is directing the BINDS lab in Hava's absence
+
+- Dean's Comments
+    - State of the college:
+        - University has new budget review process: strategic planning process. Provost gets the strategic plan, which goes to the Chancellor, who approves it or not depending on the budget situation.
+        - The big thing for us starting this year is that our financial situation is much improved so we can start discussing strategic investments at the local level.
+        - Part of this is the influx of new MS students, bringing new energy and new money.
+        - Money is being used to increase number of RAs by 15%, new staff, new teaching faculty at both MS and UGrad level. Eventually getting resources for tenure track. Potentially 1 new tenure track position this year due to the MS money.
+        - Hiring new career advisor from central advising
+        - Looking for a new advisor at junior/senior/masters levels
+        - Doing tenure track hiring this year
+        - Data science is hiring some number >= 2
+        - Approved for new ISLES hire, will be a discussion at a future faculty meeting.
+        - Next year: asking for more hiring in data science, hiring in IR/info science, will be discussed at retreat.
+        - Brian is heavily focused on developing an online MS in cyber security
+            - Focused in one area as a test
+        - Putting in proposal for informatics degree this year
+        - We're also going to be developing a proposal for a MS for informational and social computing
+        - Discussing joint degrees at the UGrad level with linguistics (comp linguistics), English (digital humanities), political science (computational social science)
+        - Space changes:
+            - As a result of discussing with space planning administration people we are discussing taking the 2nd floor of LGRC back in the short term
+            - Ongoing commitment for that space to keep improving it, turning it into a high quality space
+        - Indirectly, has heard the Dean search is moving ahead. Talking about interviewing this fall.
+
+- Chair's Comments
+    - Hava Siegelmann has left to be a program director at DARPA, Robert Kozma is running her lab
+    - Rod Grupen is on sabbatical
+    - Yuri is on leave
+    - O'Brien has resigned her position in data science
+    - New staff:
+        - New office assistant, Clarissa Santoni (sp?)
+    - IT minor is now part of our college (600 students)
+    - CICS career advisor, Tommy Joiner, will be joining us at the end of Sept
+    - 32 new grant proposals
+        - $8.4 million in funding
+    - Deepak has been promoted to professor
+    - Don Towsley, Bo Jang, and his former students received best paper at ACM SIGMETRICS
+    - Mass Mutual provided CFCS with a 15 million grant, one of the largest in UMass:Amherst history
+    - Gov Baker launched a 5 million grant for equipment to support data science and cyber security, Eric Lerned-Miller is coordinating.
+    - Trust Assurance in Cyber Security program has started
+    - Hokkaido University is working with us on a project
+    - 150 graduate students who arrived this fall, 34 new PHD students, 6 of those 34 were from out MS program, 16 are new bay state students, 98 are terminal MS students
+        - We now have 335 graduate students total (largest ever)
+    - Faculty recruiting: looking for a lecturer who could teach MS classes
+    - The college takes less money now for RTF
+    - MS student hiring policy:
+        - Terminal MS students are NOT eligible for assistantships in CSCF or anywhere else on campus. They can be programmers, but CANNOT do research. Chair sent out email with approved language.
+        - Grad school wants to make sure we don't cross the line between ugrad job and research position.
+        - MS students can take independent studies, which can be a practicum or a research project
+        - They can be graders but NOT TAs
+    - Been asked by the staff to highlight conference room issues
+        - Please be aware that your group may be taking a disproportionate share
+        - If you reserve a room but dont schedule something, within 2 weeks of the time you become bumpable
+        - When considering conference rooms, consider using the ones in the LGRC on the 3rd floor
+        - Glass room that looks into Rod's lab fits 20 people
+        - The small conference seats 8
+            - Don't write on the smart board with the dry erase markers
+        - If you have a room reservation but aren't using it, PLEASE CANCEL IT
+        - Important site visits may cause things to get bumped (120 and 203 in particular)
+        - Reserve a room form is now on the web, staff ask that you try to give them 3 days notice
+        - Creating a new small meeting room on the 3rd floor (the printer room), room is not ready yet.
+        - Also working to create teleconference rooms (will be in utility closets)
+        - AFR submissions due 1 week from today (university's deadline)
+    - Sabbatical leave applications due 10/11
+    - Outside activity forms are due now
+         
+- Committee and Staff Reports
+    - Course assignment process for FA17/SP18
+        - Emails going out requests for info
+        - Will then put up a list of what we're planning to offer
+        - Asking for a rank ordered list of n+3 courses where n=number of courses prof must teach
+        - Seminar obligation will be separate
+    - 2 large new compute clusters
+        - Come thru MASSTECH grant launched by centers for data science and cyber security
+        - Two big things happening
+            - SWARM cluster has gotten a new hardware refresh, coming online probably within the next week
+            - New massive GPU cluster with 400 GPUs at the Holyoke center
+                - Still setting up the usage rules/groups/accounts.
+                - If you think you'll be a heavy user and interested, talk to Eric Lerned-Miller.
+                - Will be sending out how to use in the new few weeks
+    - REU program this summer was a huge success
+        - Will be ramping up again in January for next year's program
+        - Thanks to everyone who contributed
+    - UGrad Program update
+        - Grupen is no longer UPD, Tim is now UPD
+        - Hope is to bring more ugrad information to meetings
+        - Trying to improve advising to keep pressure down off of everyone
+            - Bringing advising into first year seminars, trying to get face time with them and improve experience 
+            - Change in the BS program where they have eliminated the sub plans -- communicating with students over the summer on whether they choose new rules or old rules, there are information sessions on this next W/Th/F on this
+        - Numbers: 969 ugrad students, most are majors, some minors, 919 majors
+        - 250 applications per year
+            - About 45 admits from spring to the program
+            - 47 CS minors
+            - 107 new freshmen coming in
+            - 40 new transfers
+            - 1 postgrad
+    - Need a postdoc in data science? There is funding for it! (Andrew McCallum)
+        - Career mixer, Thursday Oct 13. Students should make posters, announcement coming soon
+        - Lost chance to give faculty intros to new grad students, so we'll be doing it at the data science tea
+    - On Wednesday in 203 there will be a discussion on the best ways to use TAs and graders
+
+- Proposal for MS Concentration in Security (Brian Levine)
+    - MS degree: 10 classes total, 4 are cores, and 6 additional classes.
+    - Security concentration is a strict subset of the existing MS, take 4 core classes (one must be 660), and you can take a second security class as a core
+    - 2 of the 4 free electives must be taken from one of the security classes or take math or ece's crypto classes
+    - Take 4 security classes total, 2 cores, 2 electives
+    - Bundled with this is making 660 a MS (not PhD) systems core
+    - James is worried about the core requirement not allowing people to back out of the track
+    - Would also require that 660 is taught every year
+    - Curriculum committee would look over proposal if it passes
+    - Passes 37/0/1
+- Space Task Force (Prashant Shenoy)
+    - Discussions from last retreat:
+        - There has been substantial new demands on space
+        - LGRC space was underutilized, task force wanted to fix that
+        - Suggestion was moving a research cluster to LGRC, but was met with negative feedback
+    - Phase 1 of the plan was implemented over the summer
+        - LGRC now has 6 faculty members
+            - 5 teaching faculty
+            - Several emeritus faculty
+            - 5 new grad student labs to house around 35 students
+            - All first year phd students and bay state students are in LGRC
+            - Have research space for 4 groups
+                - Rod and Joydeep's groups are already there
+            - Have MS space (M-Space) also housed there
+        - Created 5 new grad student labs with new furniture, new carpet, new cubicles.
+            - Currently better equipped than the student cubes in CS
+            - College put up some significant resources to make this happen
+            - Rationale for why we decided to do this was it was a good way to make use of the space, putting the students together for at least 1 year it breaks down lab boundaries
+                - Hopefully resulting in some collaborations
+        - M-Space, MS mailboxes are in LGRC
+            - Haven't done much of an update yet, still working on it
+        - M-Space has a kitchen
+        - We also own space in the GRC tower, with some labs and the ed-lab there
+        - CS building update
+            - Put all tenure track faculty in the CS building
+            - Have freed up some space for Phase 2...
+    - Cafe Opened
+    - Phase 2
+        - Trying to create more faculty offices: plan is to convert the remaining staff offices in the building into faculty offices.
+            - Thinking about how to compress the space in the building now that there is less demand for grad student space
+            - Trying to free up 1 to 2 student labs to convert into professional space, CIIR is offering one of their labs
+            - This plan is why there are currently unused cubes
+        - Phase 2 will happen over the course of the year
+        - Planning to create one more new conference room on the 3rd floor in the printer room
+        - Plans to convert utility closets to telephone booths
+    - Report any feedback from graduate students
