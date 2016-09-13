@@ -1,3 +1,9 @@
+---
+layout: post
+comments: true
+type: post
+author: smidget
+---
 # Faculty Meeting 9/12
 
 - Robert Kozma is directing the BINDS lab in Hava's absence
@@ -23,6 +29,8 @@
             - As a result of discussing with space planning administration people we are discussing taking the 2nd floor of LGRC back in the short term
             - Ongoing commitment for that space to keep improving it, turning it into a high quality space
         - Indirectly, has heard the Dean search is moving ahead. Talking about interviewing this fall.
+
+<!--break-->
 
 - Chair's Comments
     - Hava Siegelmann has left to be a program director at DARPA, Robert Kozma is running her lab
