@@ -13,6 +13,7 @@
 - Upcoming deadlines:
     - Sabbatical leave deadlines
     - Next Faculty meeting is Mon Oct 17 @ noon
+
 ## Dean's comments
 - Venture fund approved up to the level of around $200k
 - Starting a review of various efforts of maker spaces on campus. Not very integrated yet, talk on spending a lot of money to do a makerspace in the fine arts center bridge. Pushing them to consider spaces on the north side of campus as well.
@@ -20,6 +21,7 @@ MS in Information Social Computing is under discussion w/ provost. Developing In
 - Reminder on Faculty/Staff giving campaign: matches donations. Have had $13k already donated, primarily from emeritus faculty.
 - Dean's opportunity fund can also be donated to.
 - Dean interviews around mid-November.
+
 ## Committee & Staff reports
 - Hack UMass Oct 8/9, urgent need for faculty judges.
 - Not asking to spend overnight, asking to just be there for judging session Sunday afternoon.
@@ -33,6 +35,7 @@ MS in Information Social Computing is under discussion w/ provost. Developing In
 - Grad program: sometimes faced with ACM dissertation award nominations, having to narrow it down to a small number. Dissertations are hard to compare. Propose to circulate nominations among faculty for them to weigh in how they feel about it.
 - Robert Canterbank of Duke had to cancel Oct talk, moved to Nov. Shortage of DLS funding to support 5 speakers, will be a bit theory heavy this semester. Oct 17: Monday, 10am.
 - College career fair is next Thursday. 14 companies that we'll fit into CS150/151. Will send more emails about it. Career fair is from 10-3pm. 
+
 ## Trust assurance and cyber security center update
 - Certificate program
     - $3m for 10y grant/gift that was given to UMass Amherst by Mass Mutual
@@ -62,6 +65,7 @@ Professional program
     - Are the UMass AMherst students in CS? They are 3 employees
     - To the audience? Is there a way to get these students matriculated so it could be cheaper tuition? Could make it part of the CS degree program perhaps.
 - Send interested people Tracy's way
+
 ## Elliot Moss update on proposed definition of grad core course
 - By default, a regular course with a stable syllabus, which the college is committed to teach on a regular basis, is "core"
 - The faculty may specifically designate a course as non-core
@@ -77,6 +81,7 @@ Professional program
 - Cores must be committed to teach, but it is possible that the college would not meet that committment due to sabbatical etc
 - Currently all courses that are regularly offered here are cores, this proposal is just changing the default
 - Motion tabled discussion ended
+
 ## Lisa Henderson talking about MSP (faculty union)
 - Starting successor bargaining for a new contract that will hopefully be done before the house 1 budget.
 - A number of informal or ad hoc subcommittees established to talk about issues important to faculty
