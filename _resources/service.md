@@ -16,6 +16,8 @@ for increased service in 2017 and beyond!
 Here are some of the jobs that have traditionally been available at elections,
 along with descriptions of each job at the bottom of the page.
 
+<!--break-->
+
 | Position Name | Number Positions | Election Frequency |
 | :-----------: | :--------------: | :----------------: |
 | [Grad Rep](#grad-rep) | 4 | 2F/2S |
