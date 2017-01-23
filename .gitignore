@@ -2,3 +2,5 @@ _cache
 _site
 *.~
 *~
+Gemfile.lock
+css/.Rhistory
