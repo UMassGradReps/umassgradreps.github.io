@@ -7,7 +7,7 @@ permalink: slack.html
 
 ## CICS Grads Slack Team
 
-The graduate students in CICS have their own slack team that we use to advertise events, discuss interests, and generally chat with other students. It has semi-replaced the social mailing list as a way to quickly notifiy students about nearby events and messages. We have channels for things related to CS as well as hobbies such as board games, climbing, running, cooking, and much more. To join the slack team please follow the instructions below. If you have any questions please reach out to the current (~Spring 2017) Slack Admins: [Lucas Chaufournier](www.itsalgorithmic.com), [Prateek Sharma](https://people.cs.umass.edu/~prateeks/), and [Dan Saunders](http://www-edlab.cs.umass.edu/~djsaunde/).
+The graduate students in CICS have their own slack team that we use to advertise events, discuss interests, and generally chat with other students. It has semi-replaced the social mailing list as a way to quickly notifiy students about nearby events and messages. We have channels for things related to CS as well as hobbies such as board games, climbing, running, cooking, and much more. To join the slack team please follow the instructions below. If you have any questions please reach out to the current (~Spring 2017) Slack Admins: [Lucas Chaufournier](http://www.itsalgorithmic.com), [Prateek Sharma](https://people.cs.umass.edu/~prateeks/), and [Dan Saunders](http://www-edlab.cs.umass.edu/~djsaunde/).
 
 
 ## Joining CICS-Grads
@@ -22,6 +22,6 @@ The graduate students in CICS have their own slack team that we use to advertise
 
 ## Questions, Comments, Requests.
 
-The slack team is managed by current graduate students and not by the departmental admins. If you have any questions, comments, or feature requests reach out to one of the current slack admins. For Spring 2017 the slack admins are: [Lucas Chaufournier](www.itsalgorithmic.com), [Prateek Sharma](https://people.cs.umass.edu/~prateeks/), and [Dan Saunders](http://www-edlab.cs.umass.edu/~djsaunde/). 
+The slack team is managed by current graduate students and not by the departmental admins. If you have any questions, comments, or feature requests reach out to one of the current slack admins. For Spring 2017 the slack admins are: [Lucas Chaufournier](http://www.itsalgorithmic.com), [Prateek Sharma](https://people.cs.umass.edu/~prateeks/), and [Dan Saunders](http://www-edlab.cs.umass.edu/~djsaunde/). 
 
 
