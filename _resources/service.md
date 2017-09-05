@@ -30,7 +30,7 @@ along with descriptions of each job at the bottom of the page.
 | [Tea Totallers](#tea-totallers) | 5-6 | Both |
 | [New Student Committee](#new-student-committee) | 5 | Spring |
 | [Social Committee](#social-committee) | 4+ | Both |
-| Grad Liason for SigBits | 1 | Fall |
+| [Grad Liason for SigBits](#grad-liason-for-sigbits) | 1 | Fall |
 | [Style File Maintainer](#style-file-maintainer) | 1 | Fall |
 | [Intramural Coordinator](#intramural-coordinator) | 1 | Both |
 
@@ -108,6 +108,12 @@ At least one housemate from the house for Friday night should be on NSC.
 ## Social Committee
 
 The Social Committee is an informal student organization that plans social events and outings for the department. It is a variable commitment position: you can just be involved with the discussions and brainstorming, or you can get help to plan a particular event you're interested in.
+
+## Grad Liason for SigBits
+
+The SigBits Liaison is responsible for making graduate students aware of the Significant Bits newsletter and putting out requests for news updates and pictures of CICS events from grad students. This can be as simple as sending an email to grads@cs with a link to the SigBits webpage.
+
+The SigBits liaison is also encouraged to take pictures at graduate student events and submit them to the CICS Communications Director, so that they can be included in SigBits or other CICS communication channels.
 
 ## Style File Maintainer
 
