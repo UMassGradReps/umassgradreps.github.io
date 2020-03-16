@@ -28,7 +28,7 @@ collections:
   current_gradreps:
     output: true
   former_gradreps:
-    output: true
+    output: false
   resources:	
     output: true
     permalink: /resources/:name/
